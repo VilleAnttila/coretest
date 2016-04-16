@@ -1,0 +1,7 @@
+NODE_ENV=production
+REDIS_HOST=172.17.8.103
+REDIS_PORT=6379
+API_URL=http://172.17.8.106:80/api
+PORT=9002
+NEW_RELIC_LOG=/home/teamboard/logs/new_relig_io.log
+NEW_RELIC_ENABLED=false
